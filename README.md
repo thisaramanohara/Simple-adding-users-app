@@ -1,4 +1,4 @@
-# Simple-adding-users-app
+# Simple-adding-users-app.
 
 frontend-React
 backend-SpringBoot
